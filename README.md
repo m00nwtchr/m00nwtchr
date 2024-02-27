@@ -1,5 +1,11 @@
 ### 🌕
 
+[![m00nwtchr's GitHub stats](https://github-readme-stats.vercel.app/api?username=m00nwtchr&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=m00nwtchr&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m00nwtchr&theme=transparent&show_icons=true&hide_border=true&layout=donut&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
